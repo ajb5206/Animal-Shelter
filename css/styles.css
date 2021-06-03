@@ -1,0 +1,10 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+  color: mediumaquamarine
+}
+
+.column {
+  width: 200px;
+  float: left;
+}
